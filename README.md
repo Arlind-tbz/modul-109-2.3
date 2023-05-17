@@ -7,8 +7,22 @@
 
 ## Schritt 2: Arbeiten mit dem eigenen Projektes
 
-- Ein neues File hinzufügen
-	- Fügen Sie Ihrem Projekt ein HTML File hinzu, in dem die bisherigen Befehle der Arbeitsschritte dokumentiert sind
-- Synchronisieren Sie ihre Änderungen mit dem Github Server
-- Aktualisieren Sie Ihr HTML File mit den fehlenden Befehlen und synchronisieren Sie Ihr Projekt
+- [X] Ein neues File hinzufügen
+- [X] Fügen Sie Ihrem Projekt ein HTML File hinzu, in dem die bisherigen Befehle der Arbeitsschritte dokumentiert sind
+- [X] Synchronisieren Sie ihre Änderungen mit dem Github Server
+- [X] Aktualisieren Sie Ihr HTML File mit den fehlenden Befehlen und synchronisieren Sie Ihr Projekt
+
+## Schritt 3: Arbeiten mit einem geteilten Projekt
+
+- [ ] Clonen Sie das Projekt Ihres Gruppenpartners
+- [ ] Arbeiten Sie in einem eigenen Branch
+- [ ] Fügen Sie Ihre HTML Seite dem Projekt hinzu
+- [ ] Synchronisieren Sie Ihre Arbeit mit dem Git Server
+- [ ] Erzeugen Sie einen pull request um die Erweiterungen Ihres Branches in den Hauptbranch einzufügen
+- [ ] Ihr Gruppenpartner gibt den Request frei
+- [ ] Führen Sie in Ihrem Projekt in Ihrem HTML File die Arbeitsschritte nach
+
+## Schritt 4: Webserver aktualisieren
+
+- [ ] Aktualisieren Sie Ihr FTP Deployment aus Aufgabe 1.1.
 
